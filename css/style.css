@@ -1,0 +1,35 @@
+body {
+  background-color: #D6E4E5;
+}
+
+hr {
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 10px;
+  width: 10%;
+}
+img:hover{
+  background-color: black;
+}
+
+ h1{
+
+   color: #182747;
+
+
+
+ }
+ h3 {
+
+color:  #E0144C;
+
+ }
+
+  .gamming{
+
+    width: 50px;
+  }
+.circular{
+  border-radius: 100%;
+}
